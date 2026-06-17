@@ -161,13 +161,13 @@ const Summit = () => {
                 next wave of AI-driven success.
               </p>
             </RevealLeft>
-            <div className="md:text-7xl text-6xl px-5 md:px-12 py-5">
+            {/* <div className="md:text-7xl text-6xl px-5 md:px-12 py-5">
               <Reveal>
                 <Link to={"/gais/meet"}>
                   <FaArrowAltCircleRight className="fill-black" />
                 </Link>
               </Reveal>
-            </div>
+            </div> */}
           </div>
           <div className="md:w-1/3 md:pt-0 pt-6  flex justify-center">
             <Reveal width="100%">

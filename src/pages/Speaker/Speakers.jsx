@@ -160,12 +160,12 @@ function Speakers() {
               />
 
               <div className="absolute -top-4 -left-4 px-3 py-1 rounded-full bg-emerald-500 text-xs font-semibold shadow-lg">
-                2026 Edition
+                2027 Edition
               </div>
 
               <div className="absolute bottom-4 left-4 right-4 flex justify-between text-[11px] text-slate-200">
                 <span className="px-2 py-1 rounded-full bg-black/70 border border-slate-700">
-                  Berlin · October-2026
+                  Berlin · October-2027
                 </span>
                 <span className="px-2 py-1 rounded-full bg-black/70 border border-slate-700">
                   On-site · Global Delegates
